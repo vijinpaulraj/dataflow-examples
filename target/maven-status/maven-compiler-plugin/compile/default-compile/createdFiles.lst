@@ -1,0 +1,14 @@
+com\hsbc\oprisk\cloud\reporting\RowToStringConverter.class
+com\hsbc\oprisk\cloud\reporting\DataIngestion.class
+com\hsbc\oprisk\cloud\reporting\MetadataTracker.class
+com\hsbc\oprisk\cloud\reporting\DataExtraction.class
+com\hsbc\oprisk\cloud\reporting\DataIngestion$1.class
+com\hsbc\oprisk\cloud\reporting\DataIngestionPipelineOptions.class
+com\hsbc\oprisk\cloud\reporting\StringToRowConverter.class
+com\hsbc\oprisk\cloud\reporting\DataExtraction$1.class
+com\hsbc\oprisk\cloud\reporting\DataExtractionPipelineOptions.class
+com\hsbc\oprisk\cloud\reporting\snippets\FileConverter.class
+com\hsbc\oprisk\cloud\reporting\DataExtraction$RowToStringConverter.class
+com\hsbc\oprisk\cloud\reporting\HeaderFormatter.class
+com\hsbc\oprisk\cloud\reporting\BigQuerySnippets.class
+com\hsbc\oprisk\cloud\reporting\DataIngestion$StringToRowConverter.class
